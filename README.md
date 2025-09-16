@@ -1,2 +1,2 @@
-# DSA
+Leetcode Daily
 Dsa problems
