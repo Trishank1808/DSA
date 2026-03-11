@@ -33,4 +33,8 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Trishank1808/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
