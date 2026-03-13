@@ -7,6 +7,7 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Trishank1808/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 ## Two Pointers
@@ -23,6 +24,7 @@ Dsa problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trishank1808/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
@@ -37,4 +39,8 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Trishank1808/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
