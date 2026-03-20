@@ -12,6 +12,7 @@ Dsa problems
 | [0088-merge-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Dsa problems
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,8 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->
