@@ -15,6 +15,7 @@ Dsa problems
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Trishank1808/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
@@ -42,6 +43,7 @@ Dsa problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trishank1808/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Dsa problems
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Trishank1808/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Binary Search
