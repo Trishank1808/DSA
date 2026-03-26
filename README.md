@@ -11,6 +11,7 @@ Dsa problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Trishank1808/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Trishank1808/DSA/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trishank1808/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -62,6 +63,7 @@ Dsa problems
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Trishank1808/DSA/tree/main/0135-candy/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
