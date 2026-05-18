@@ -17,6 +17,7 @@ Dsa problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trishank1808/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [0414-third-maximum-number](https://github.com/Trishank1808/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -102,6 +103,7 @@ Dsa problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trishank1808/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
