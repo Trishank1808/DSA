@@ -21,6 +21,7 @@ Dsa problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trishank1808/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -43,6 +44,7 @@ Dsa problems
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [0414-third-maximum-number](https://github.com/Trishank1808/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ Dsa problems
 | [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Trishank1808/DSA/tree/main/0135-candy/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
