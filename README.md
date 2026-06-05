@@ -67,6 +67,7 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Dsa problems
 | [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Trishank1808/DSA/tree/main/0135-candy/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trishank1808/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting Sort
@@ -117,6 +119,7 @@ Dsa problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
