@@ -68,6 +68,7 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Trishank1808/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Trishank1808/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -116,6 +117,7 @@ Dsa problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Trishank1808/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trishank1808/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
