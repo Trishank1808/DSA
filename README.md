@@ -69,6 +69,7 @@ Dsa problems
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Trishank1808/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Trishank1808/DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -139,4 +140,20 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
