@@ -9,5 +9,6 @@ class Solution:
                 start+=1
             result+=start
         return result
-            
+
+
         
