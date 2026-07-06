@@ -19,6 +19,7 @@ Dsa problems
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [0414-third-maximum-number](https://github.com/Trishank1808/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Trishank1808/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -47,6 +48,7 @@ Dsa problems
 | [0088-merge-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Trishank1808/DSA/tree/main/0274-h-index/) | Medium |
 | [0414-third-maximum-number](https://github.com/Trishank1808/DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Trishank1808/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trishank1808/DSA/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
