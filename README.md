@@ -75,6 +75,7 @@ Dsa problems
 | [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Trishank1808/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/Trishank1808/DSA/tree/main/0520-detect-capital/) | Easy |
+| [0709-to-lower-case](https://github.com/Trishank1808/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
