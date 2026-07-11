@@ -8,6 +8,7 @@ Dsa problems
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Trishank1808/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0040-combination-sum-ii](https://github.com/Trishank1808/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Trishank1808/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Trishank1808/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -153,6 +154,7 @@ Dsa problems
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/Trishank1808/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Trishank1808/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
