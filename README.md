@@ -146,6 +146,7 @@ Dsa problems
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Trishank1808/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Trishank1808/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -193,4 +194,8 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trishank1808/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Trishank1808/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
