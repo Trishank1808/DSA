@@ -86,6 +86,7 @@ Dsa problems
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2325-decode-the-message](https://github.com/Trishank1808/DSA/tree/main/2325-decode-the-message/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Dsa problems
 | [1331-rank-transform-of-an-array](https://github.com/Trishank1808/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2325-decode-the-message](https://github.com/Trishank1808/DSA/tree/main/2325-decode-the-message/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trishank1808/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
