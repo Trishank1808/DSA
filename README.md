@@ -84,6 +84,7 @@ Dsa problems
 | [0696-count-binary-substrings](https://github.com/Trishank1808/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/Trishank1808/DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2325-decode-the-message](https://github.com/Trishank1808/DSA/tree/main/2325-decode-the-message/) | Easy |
@@ -97,6 +98,7 @@ Dsa problems
 | [0055-jump-game](https://github.com/Trishank1808/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Trishank1808/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Trishank1808/DSA/tree/main/0135-candy/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trishank1808/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -200,4 +202,12 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Trishank1808/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
