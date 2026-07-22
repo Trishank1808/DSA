@@ -24,6 +24,7 @@ Dsa problems
 | [1288-remove-covered-intervals](https://github.com/Trishank1808/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Trishank1808/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Trishank1808/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -72,6 +73,7 @@ Dsa problems
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Trishank1808/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trishank1808/DSA/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trishank1808/DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
