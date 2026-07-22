@@ -28,6 +28,7 @@ Dsa problems
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Trishank1808/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Trishank1808/DSA/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trishank1808/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Trishank1808/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -148,6 +149,7 @@ Dsa problems
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2325-decode-the-message](https://github.com/Trishank1808/DSA/tree/main/2325-decode-the-message/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Trishank1808/DSA/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trishank1808/DSA/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
