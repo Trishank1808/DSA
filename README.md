@@ -26,6 +26,7 @@ Dsa problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Trishank1808/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Trishank1808/DSA/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -162,6 +163,7 @@ Dsa problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Trishank1808/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
