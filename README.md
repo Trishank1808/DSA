@@ -6,6 +6,7 @@ Dsa problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Trishank1808/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Trishank1808/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trishank1808/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0040-combination-sum-ii](https://github.com/Trishank1808/DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -140,6 +141,7 @@ Dsa problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Trishank1808/DSA/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Trishank1808/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Trishank1808/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
