@@ -29,6 +29,7 @@ Dsa problems
 | [1672-richest-customer-wealth](https://github.com/Trishank1808/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Trishank1808/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Trishank1808/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trishank1808/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -95,6 +96,7 @@ Dsa problems
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Trishank1808/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2325-decode-the-message](https://github.com/Trishank1808/DSA/tree/main/2325-decode-the-message/) | Easy |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ Dsa problems
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Trishank1808/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
