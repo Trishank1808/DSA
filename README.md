@@ -25,6 +25,7 @@ Dsa problems
 | [1331-rank-transform-of-an-array](https://github.com/Trishank1808/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Trishank1808/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/Trishank1808/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trishank1808/DSA/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Trishank1808/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -95,6 +96,7 @@ Dsa problems
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1528-shuffle-string](https://github.com/Trishank1808/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Trishank1808/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Trishank1808/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
