@@ -30,6 +30,7 @@ Dsa problems
 | [1672-richest-customer-wealth](https://github.com/Trishank1808/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Trishank1808/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Trishank1808/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Trishank1808/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Trishank1808/DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -174,6 +175,7 @@ Dsa problems
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Trishank1808/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Trishank1808/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Trishank1808/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Trishank1808/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trishank1808/DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Trie
