@@ -106,6 +106,7 @@ Dsa problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Trishank1808/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Trishank1808/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -235,4 +236,8 @@ Dsa problems
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Trishank1808/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Trishank1808/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
