@@ -96,6 +96,7 @@ Dsa problems
 | [0520-detect-capital](https://github.com/Trishank1808/DSA/tree/main/0520-detect-capital/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Trishank1808/DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/Trishank1808/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Trishank1808/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Trishank1808/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trishank1808/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -160,6 +161,7 @@ Dsa problems
 | [0001-two-sum](https://github.com/Trishank1808/DSA/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Trishank1808/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Trishank1808/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Trishank1808/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Trishank1808/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trishank1808/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Trishank1808/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
